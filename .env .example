@@ -1,0 +1,18 @@
+# PDF Mitra Pro environment configuration
+# Copy this file to .env and replace the placeholder values.
+# NEVER commit .env to GitHub.
+
+TOKEN=PASTE_YOUR_TELEGRAM_BOT_TOKEN_HERE
+OWNER_ID=5628671567
+
+# Add any AI providers you use; unused keys can remain empty.
+GEMINI_API_KEY=
+MISTRAL_API_KEY=
+OPENROUTER_API_KEY=
+GROQ_API_KEY=
+
+# Optional channel gate settings
+CHANNEL_ID=
+CHANNEL_GATE_ENABLED=false
+CHANNEL_JOIN_URL=
+
