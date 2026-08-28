@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+pdf_bot.db
+fonts/*
+temp/*
+*.log
+
+pdf_mitra.db
+*.db-wal
+*.db-shm
